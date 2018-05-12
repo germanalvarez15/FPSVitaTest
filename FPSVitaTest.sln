@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FPSVitaTest.Plugins", "FPSVitaTest.Plugins.csproj", "{D175F119-0FB4-0E15-0E63-811374CC73D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FPSVitaTest.Editor.Plugins", "FPSVitaTest.Editor.Plugins.csproj", "{F84336F0-D819-4773-9407-906624753855}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D175F119-0FB4-0E15-0E63-811374CC73D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D175F119-0FB4-0E15-0E63-811374CC73D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D175F119-0FB4-0E15-0E63-811374CC73D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D175F119-0FB4-0E15-0E63-811374CC73D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F84336F0-D819-4773-9407-906624753855}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F84336F0-D819-4773-9407-906624753855}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F84336F0-D819-4773-9407-906624753855}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F84336F0-D819-4773-9407-906624753855}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
